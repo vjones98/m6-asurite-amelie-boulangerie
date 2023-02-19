@@ -1,4 +1,4 @@
-html {
+* {
     font-family: Verdana, Arial, sans-serif;
     line-height: 1.5;
 }
@@ -18,9 +18,10 @@ header {
     background-color: #141a1a;
     background-image: url(bowl.jpg);
     color: white;
+    background-repeat: no-repeat;
 }
 
-header h1 {
+h1 {
     margin: 0;
     padding-top: 50px;
     padding-left: 32px;
